@@ -1,0 +1,5 @@
+[Fri Oct 16 00:38:32.713300 2020] [proxy_fcgi:error] [pid 32021] [client 114.119.146.241:55184] AH01071: Got error 'PHP message: PHP Notice:  Undefined index: merchant_id in /home/235332.cloudwaysapps.com/ywxfyvndyp/public_html/ec/php/func/func.php on line 18\n'
+[Fri Oct 16 01:48:52.787903 2020] [mpm_itk:warn] [pid 2857] (13)Permission denied: [client 66.249.79.191:56906] Couldn't read /home/235332.cloudwaysapps.com/ywxfyvndyp/public_html/, closing connection.
+[Fri Oct 16 05:49:39.834698 2020] [mpm_itk:warn] [pid 11618] (13)Permission denied: [client 54.36.148.142:34712] Couldn't read /home/235332.cloudwaysapps.com/ywxfyvndyp/public_html/robots.txt, closing connection.
+[Fri Oct 16 07:34:16.680796 2020] [proxy_fcgi:error] [pid 17078] [client 123.56.127.50:37674] AH01071: Got error 'Primary script unknown\n'
+[Fri Oct 16 10:15:59.996203 2020] [mpm_itk:warn] [pid 22598] (13)Permission denied: [client 113.210.193.14:41682] Couldn't read /home/235332.cloudwaysapps.com/ywxfyvndyp/public_html/assets/fonts/Montserrat-Light.ttf, closing connection., referer: http://richwoodvc.com/

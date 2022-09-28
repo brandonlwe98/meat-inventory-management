@@ -1,0 +1,1 @@
+ALTER TABLE `ec_order_items`  ADD `product_name` VARCHAR(255) NULL  AFTER `product_gallery_id`,  ADD `unit` INT(1) NULL  AFTER `product_name`;
